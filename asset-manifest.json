@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.3fdec278.chunk.css",
-    "main.js": "/static/js/main.739f254e.chunk.js",
-    "main.js.map": "/static/js/main.739f254e.chunk.js.map",
+    "main.js": "/static/js/main.9ce2797c.chunk.js",
+    "main.js.map": "/static/js/main.9ce2797c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8dbddefb.js",
     "runtime-main.js.map": "/static/js/runtime-main.8dbddefb.js.map",
     "static/js/2.bac03fdc.chunk.js": "/static/js/2.bac03fdc.chunk.js",
@@ -18,15 +18,15 @@
     "static/media/img-9.f97f588f.jpg": "/static/media/img-9.f97f588f.jpg",
     "static/media/lamp-600.556102bd.jpg": "/static/media/lamp-600.556102bd.jpg",
     "static/media/rucksack-600.333fc171.jpg": "/static/media/rucksack-600.333fc171.jpg",
-    "static/media/video-1.2dab37f6.mp4": "/static/media/video-1.2dab37f6.mp4",
-    "static/media/video-2.e50a5e6e.mp4": "/static/media/video-2.e50a5e6e.mp4",
-    "static/media/video-3.ba72c913.mp4": "/static/media/video-3.ba72c913.mp4",
+    "static/media/video-1.85a025f5.mp4": "/static/media/video-1.85a025f5.mp4",
+    "static/media/video-2.f606ba7c.mp4": "/static/media/video-2.f606ba7c.mp4",
+    "static/media/video-3.92c04ea2.mp4": "/static/media/video-3.92c04ea2.mp4",
     "static/media/woodcraft-600.4e419c1c.jpg": "/static/media/woodcraft-600.4e419c1c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8dbddefb.js",
     "static/js/2.bac03fdc.chunk.js",
     "static/css/main.3fdec278.chunk.css",
-    "static/js/main.739f254e.chunk.js"
+    "static/js/main.9ce2797c.chunk.js"
   ]
 }
